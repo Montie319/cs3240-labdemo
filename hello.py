@@ -1,3 +1,4 @@
 
-def greetings(msg):
-    print(msg)
+import helper
+
+helper.greetings("hello")
