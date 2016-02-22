@@ -1,4 +1,4 @@
 
 import helper
 
-helper.greetings("hello")
+helper.greetings("hello friends!")
